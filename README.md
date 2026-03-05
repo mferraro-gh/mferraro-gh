@@ -51,6 +51,6 @@ Software Engineer with a background in Computer Science (UCR) and a Postgraduate
 
 <div align="center">
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mferraro-gh&show_icons=true&theme=default&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mferraro-gh&hide_border=true)](https://github.com/mferraro-gh)
 
 </div>
